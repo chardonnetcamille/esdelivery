@@ -51,10 +51,13 @@ hr{
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    margin-top: 60px;
+    margin-top: 50px;
 }
 .texte1{
     margin-bottom: -20px;
+}
+.votez{
+    margin-bottom:-7px ;
 }
 .plats{
     display: flex;
@@ -62,6 +65,7 @@ hr{
     align-items: center;
     justify-content: space-around;
     margin-bottom: 24px;
+    margin-right: -55px;
 }
 .lasagne{
     width: 168px;
@@ -116,7 +120,7 @@ hr{
     font-size: 12px;
     display: flex;
     justify-content: flex-end;
-    margin-bottom: -3px;
+    margin-bottom: -5px;
     margin-right: 10px;
 }
 .forme1{
@@ -126,6 +130,7 @@ hr{
     border-radius: 24px;
     display: flex;
     justify-content: center;
+    margin-top: 5px;
 }
 .forme1 p{
     color: white;
@@ -142,6 +147,7 @@ hr{
 }
 .pouce{
     font-size: 37px;
+    margin-bottom: 5px;
 }
 .forme2 p{
     margin-top: 3px;
@@ -163,4 +169,75 @@ hr{
     border-radius: 100%;
     height: 50px;
     width: 50px;
+    margin-top: 5px;
+}
+.fannynom{
+    color: #D7D7D7;
+    font-size: 12px;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: -5px;
+    margin-right: 10px;
+    margin-top: 75px;
+}
+.messagenom2{
+    margin-left:5px;
+}
+.messagefanny{
+    display: flex;
+    flex-direction: row;
+}
+.paulinenom{
+    color: #D7D7D7;
+    font-size: 12px;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: -5px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.pauline{
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+    margin-top: 5px;
+}
+
+.forme4{
+    background-color: #F6F6F6;
+    width: 90px;
+    height: 31px;
+    border-radius: 24px;
+    display: flex;
+    justify-content: center;
+    margin-top: 13px;
+}
+.forme4 p{
+    margin-top: 3px;
+}
+.messagepauline{
+    display: flex;
+    flex-direction: row;
+}
+.choixfinal{
+    background-color: #54F1A6;
+    width: 300px;
+    border-radius: 4px;
+    margin-top: 28px ;
+}
+.casemessage{
+    width: 360px;
+    height: 34px ;
+    border-radius: 27px;
+    background-color: #F6F6F6;
+    margin-top: 25px;
+    display: flex;
+}
+.casemessage p{
+    color: #CDCDCD;
+    padding-top: 5px;
+}
+.icon{
+    margin-top: 5px;
+    margin-left: 175px;
 }
